@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561364997781",
+    "project_id": "firebase-app-invites"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561364997781:android:4423fa4f54eb0ffa",
+        "android_client_info": {
+          "package_name": "com.appinvites.appinvites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561364997781-m3s7en45hf09jig1dbjn07ic4v229plp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyNytmMjC0dZl2yiXk4fsiFao6zEpOBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
