@@ -1,25 +1,35 @@
 {
   "project_info": {
-    "project_number": "561364997781",
-    "project_id": "firebase-app-invites"
+    "project_number": "618442255082",
+    "firebase_url": "https://app-invites-1988.firebaseio.com",
+    "project_id": "app-invites-1988",
+    "storage_bucket": "app-invites-1988.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561364997781:android:4423fa4f54eb0ffa",
+        "mobilesdk_app_id": "1:618442255082:android:4423fa4f54eb0ffa",
         "android_client_info": {
           "package_name": "com.appinvites.appinvites"
         }
       },
       "oauth_client": [
         {
-          "client_id": "561364997781-m3s7en45hf09jig1dbjn07ic4v229plp.apps.googleusercontent.com",
+          "client_id": "618442255082-776oqf6goorcvto1v12j5lnopn4pv5c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appinvites.appinvites",
+            "certificate_hash": "d2165be7189f103148b6bf40614db903b65e3c16"
+          }
+        },
+        {
+          "client_id": "618442255082-dveso25q5caf9t6gi4mi6qud50g2ulgn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDXyNytmMjC0dZl2yiXk4fsiFao6zEpOBM"
+          "current_key": "AIzaSyAHawn6DyYHXbIn_2BIHnubQZyUwhpC9lQ"
         }
       ],
       "services": {
@@ -27,11 +37,16 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618442255082-dveso25q5caf9t6gi4mi6qud50g2ulgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
-          "status": 1
+          "status": 2
         }
       }
     }
